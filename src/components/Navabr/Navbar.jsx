@@ -80,8 +80,8 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="#blog" onClick={toggleMenu}>
-                بلاگ
+              <a href="#callme" onClick={toggleMenu}>
+                تماس با ما
               </a>
             </li>
           </ul>
@@ -92,3 +92,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
