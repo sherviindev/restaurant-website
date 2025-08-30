@@ -25,7 +25,7 @@ const Banner = () => {
 
                         {/* متن و آیکون‌ها */}
                         <div className='flex flex-col justify-center gap-6 sm:pt-0 text-center sm:text-right'>
-                            <h1 className='font-bold text-4xl'>چرا رستوران پلو</h1>
+                            <h1 className='font-bold text-4xl'> رستوران پلو</h1>
                             <p className='text-gray-700 leading-relaxed'>
                                 رستوران پلو از سال 1390 در استان زنجان با مدیریت بهرام فتح اللهی آغاز به کار کرد. 
                                 خط مشی رستوران پلو همیشه بر مدار رضایت مشتری، غذای سالم، مواد اولیه درجه یک و پخت ایرانی بوده است. 

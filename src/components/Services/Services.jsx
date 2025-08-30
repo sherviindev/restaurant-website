@@ -33,7 +33,7 @@ const Services = () => {
             <div className="container">
                 <div className="text-center mb-20 max-w-[400px] mx-auto">
 
-                    <h1 className="text-3xl font-bold">خدمات ما</h1>
+                    <h1 className="text-3xl font-bold"> غذاهای ویژه</h1>
 
                 </div>
                 <div 
