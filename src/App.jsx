@@ -9,6 +9,8 @@ import Footer from './components/Footer/Footer';
 import Gallery from './components/Gallery/Gallery';
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Slider from './components/Slider/Slider';
+
 
 
 const App = () => {
@@ -27,7 +29,8 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <Hero />
+      <Hero /> 
+      <Slider/>
       <Services />
       <Banner />
       <Gallery/>
